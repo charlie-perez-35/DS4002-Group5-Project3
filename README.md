@@ -25,8 +25,6 @@ Platform: Charlie and Cato used Windows, Andrea on Mac
 ### What you will find in this repo:
 * DATA folder:
 
-> README.md: a file explaining where we got the data and how to download it from here. We did not individually upload each image to this repository.
-
 > anger.zip: a file containing all of the images displaying "anger" available for download. All subsequent files are the same as this one, displaying the corresponding labelled emotion.
 
 > contempt.zip
@@ -42,12 +40,15 @@ Platform: Charlie and Cato used Windows, Andrea on Mac
 > surprise.zip
   
 * SCRIPTS folder:
- 
+
+> project3_eda.ipynb
+
 * OUTPUT folder:
 * LICENSE.md
 * README.md
 
 ## Section 3: Instructions for reproducing results
+
 
 ## Resources:
 
