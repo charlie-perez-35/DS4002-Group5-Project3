@@ -43,11 +43,13 @@ Platform: Charlie and Cato used Windows, Andrea on Mac
 * SCRIPTS folder:
 
 > project3_eda.ipynb: the script we used to do initial EDA, test viability of augmentation, and view images.
-> Emotional_Classification_Keras_Model.ipynb: script used to perform analysis
+
+> Emotional_Classification_Keras_Model.ipynb: master script used to perform analysis
 
 * OUTPUT folder:
   
 > Model Learning Graph.png: Visual representation of our model's performace during training
+
 > model_weights.h5: the weights of the model after training
 
 * LICENSE.md
@@ -58,7 +60,7 @@ To replicate our results, first download the files in the DATA folder.
 
 Prepare Python - Import the necessary libraries and add-on packages.  For python you will need to install/install numpy, pandas, os, PIL, PIL.Image, tensorflow, tensorflow.keras, matplotlib.pyplot, shutil
 
-Run the master script file - In the SCRIPTS folder, download and run the project3_eda.ipynb script in python.
+Run the master script file - In the SCRIPTS folder, download and run the Emotional_Classification_Keras_Model.ipynb script in python.
 
 Analyze the results - After running the master script, it should result in some graphs and figures. Cross reference these with the graphs and figures uploaded in the OUTPUT folder. 
 
