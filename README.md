@@ -1,7 +1,7 @@
 # DS4002-Group5-Project3
 
 
-Code for various projects in DS 4002 Spring 2024. Group 5 consists of Andrea, Cato, and Charlie.
+Code for image-data project in DS 4002 Spring 2024. Group 5 consists of Andrea, Cato, and Charlie.
 
 Our goal for this project is to develop a Facial Emotion Recognition (FER) model to classify facial expressions into distinct emotions. We are aiming to reach a level of accuracy comparable to human interpretation. This technology holds significant value, especially in telehealth and customer service, where understanding and reacting to human emotions is critical. By achieving this, we aim to enhance human-AI interaction and support mental health diagnostics, demonstrating the practical implications of our work in real-world applications.
 
