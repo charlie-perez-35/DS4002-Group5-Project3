@@ -41,9 +41,12 @@ Platform: Charlie and Cato used Windows, Andrea on Mac
   
 * SCRIPTS folder:
 
-> project3_eda.ipynb
+> project3_eda.ipynb: the script we used to do initial EDA, test viability of augmentation, and view images.
 
 * OUTPUT folder:
+  
+> output.pdf: compilation of our model performance results
+
 * LICENSE.md
 * README.md
 
