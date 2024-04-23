@@ -48,7 +48,13 @@ Platform: Charlie and Cato used Windows, Andrea on Mac
 * README.md
 
 ## Section 3: Instructions for reproducing results
+To replicate our results, first download the files in the DATA folder.
 
+Prepare Python - Import the necessary libraries and add-on packages.  For python you will need to install/install numpy, pandas, os, PIL, PIL.Image, tensorflow, tensorflow.keras, matplotlib.pyplot, shutil
+
+Run the master script file - In the SCRIPTS folder, download and run the project3_eda.ipynb script in python.
+
+Analyze the results - After running the master script, it should result in some graphs and figures. Cross reference these with the graphs and figures uploaded in the OUTPUT folder. 
 
 ## Resources:
 
