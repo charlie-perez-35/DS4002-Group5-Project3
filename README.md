@@ -71,3 +71,7 @@ Analyze the results - After running the master script, it should result in some 
 [4] G. Sharma, “Facial Emotion Recognition (FER) using Keras,” Analytics Vidhya, Sep. 23, 2020. https://medium.com/analytics-vidhya/facial-emotion-recognition-fer-using-keras-763df7946a64 (accessed Apr. 08, 2024).
 
 [5]E. Allibhai, “Building a Convolutional Neural Network (CNN) in Keras,” Medium, Nov. 15, 2018. https://towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5
+
+[6] K. Team, “Keras Documentation: Keras 3 API documentation,” Keras, https://keras.io/api/ (accessed Apr. 23, 2024).
+
+[7] katoch99, “Katoch99/Emotion-recognition: The project titled ‘emotion recognition using keras’ has been developed to use convolutional neural networks (cnns) to detect the emotion state of the human. A data set of different facial expression is used which contains different emotes (angry, disgust, fear, happy, neutral, sad and surprise) for machine learning.,” GitHub, https://github.com/katoch99/Emotion-Recognition (accessed Apr. 23, 2024). 
